@@ -1,0 +1,229 @@
+
+.bash{
+	margin-top: -10px;
+	padding-left: 15%;
+	height: 165px;
+	width: 100%;
+	background-color: #767575;
+	background-color: #767575;
+	padding-top: 0%;
+	position: fixed;
+
+}
+.okajakbd{
+	width: 800px;
+}
+.badalgabd{
+	width: 1000px;
+}
+.sahypabd{
+	color: #111d5e;
+}
+.bash_okajak{
+	margin-top: 0px;
+	width: 100%;
+	height: auto;
+	padding-top: 0%;
+	position: fixed;
+
+}
+.goll{
+	height: 40px;
+	width: auto;
+	position: fixed;
+	margin-bottom: 0px;
+}
+.golll{
+	height: 40px;
+	width: auto;
+	position: fixed;
+	margin-bottom: 0px;
+	margin-top: 150px;
+}
+.gol{
+	padding-top: 110px;
+	height: 50px;
+	width: 100%;
+	margin-bottom: 0px;
+}
+.gol_okajak{
+	padding-top:335px;
+	height: 100px;
+	width: 100%;
+	margin-bottom: 0px;
+}
+.gol_badalga{
+	padding-top:189.31px;
+	position: fixed;
+
+}
+
+.goll_badalga{
+
+}
+
+body{
+
+	background-color: silver;
+	background-position-y:70%;
+	background-repeat:repeat-x;
+	background-attachment: fixed;
+	margin:0px;
+}
+.ady{
+	margin-left: 3%;
+	color:white;
+	font-size: 90px;
+	font-family: gabriola;
+}
+.ady_2{
+	font-family: gabriola;
+	color:gold;
+	position: static;
+	margin-left: 35%;
+	font-size: 50px;
+}
+.orta{
+	height: 1000px;
+	width: 100%;
+	padding-top: 0px;
+}
+.okuw_s{
+	height: 500px;
+	width: 100%;
+	padding-top: 0px;
+}
+.orta_tv{
+	height: 300px;
+	width: 100%;
+	padding-top: 100px;
+}
+.orta_hat{
+	color: #111d5e;
+}
+.kitap{
+	height: 250px;
+	width: 250px;
+}
+.okuw-ktp{
+	height: 250px;
+	width: 250px;
+	border-radius: 15%;
+}
+.wideourok{
+	height: 250px;
+	width: 250px;
+}
+.ppoint{
+	height: 250px;
+	width: 250px;
+}
+.gun-dash_main{
+	height: 250px;
+	width: 250px;
+	border-radius:10% ;
+}
+
+.referat{
+		height: 250px;
+		width: 250px;
+}
+.okuw_sayt{
+	height: 250px;
+	width: 250px;
+	border-radius: 20%;
+}
+.enedil{
+	height: 250px;
+	width: 250px;
+}
+.tm_tv{
+	border-radius: 20%;
+}
+.a-asyr{
+	width: auto;
+	height: 150px;
+}
+.yashlyk{
+	width: auto;
+	height: 150px;
+
+}
+.miras{
+	width: auto;
+	height: 150px;
+
+}
+.t-stan{
+	width: auto;
+	height: 150px;
+}
+.tm_owaz{
+	width: auto;
+	height: 150px;
+
+}
+.t_sport{
+	width: auto;
+	height: 150px;
+
+}
+.aga{
+	width: auto;
+	height: 150px;
+
+}
+.kitapp{
+	height: 300px;
+	width: auto;
+}
+td{
+	padding-left: 85px;
+	padding-right: 85px;
+	padding-bottom:0px;
+	font-size: 150%;
+	font-family: gabriola;
+}.bar{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom:0px;
+	font-size: 150%;
+	font-family: gabriola;
+	background-color: blue;
+}
+.onkls{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom:0px;
+	font-size: 150%;
+	font-family: gabriola;
+}
+a {
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
+.ktp{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom:65px;
+	font-size: 150%;
+	font-family: gabriola;
+}
+.tv{
+	height: 700px;
+
+}
+.setir{
+	padding: 0px;
+}
+.wideo{
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom:0px;
+	font-size: 150%;
+	font-family: gabriola;
+}
+
+
+
+
+
